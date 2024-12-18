@@ -8,6 +8,13 @@ Data Preprocessing:
 - Identification and removal of zero-value data points in critical features.
 - Exploratory Data Analysis (EDA):
 
+### Prediction results examples:
+![alt text](image-2.png)
+![alt text](image-1.png)
+
+### Overfitting example:
+![alt text](image-3.png)
+
 ### Correlation Heatmaps to identify relationships between features.
 ![image](https://github.com/user-attachments/assets/52e7b144-63eb-4677-bb31-ab87069f227b)
 
@@ -94,7 +101,6 @@ Cluster 2 displayed dispersed data, requiring polynomial features and SVR tuning
 ![image](https://github.com/user-attachments/assets/ae83d297-ef23-4a25-bfef-3b1c7f5e5bf3)
 
 Clusters 3 had strong predictive accuracy with tree-based models.
-
 
 ### Acknowledgments
 This project is [based on the Volve Dataset by sgk2004](https://github.com/sgk2004/Volve-Dataset). Special thanks to the original author for sharing the dataset and enabling further analysis.
